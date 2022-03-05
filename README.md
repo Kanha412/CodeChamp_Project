@@ -30,4 +30,3 @@
 ![Screenshot (429)](https://user-images.githubusercontent.com/85762282/156896854-b7a2abb6-3e7e-48e6-9da8-250e6966f4fa.png)
 <br><br><br>
 <i>This CodeChamp Project Is Only For Knowledge & Learning Bootstrap. It Is Just A Creative Template And Doesn't Contain Any Post, Articles, Or Courses. Don't Take It As A Complete Learning Website.</i>
-<br><br>
